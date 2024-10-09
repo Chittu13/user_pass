@@ -5,6 +5,7 @@ root
 toor
 qwerty
 qwertyuiop
+GUESTGUEST
 asdfghjkl
 iloveyou
 password1
@@ -77,6 +78,7 @@ system
 pass
 rootroot
 admin123
+GUEST
 test123
 user
 123123
