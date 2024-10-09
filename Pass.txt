@@ -28,6 +28,7 @@ smile
 router
 tech
 cascade
+privileged
 !root
 sysadm
 echo
