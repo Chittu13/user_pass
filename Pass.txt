@@ -13,10 +13,14 @@ princess
 qwerty123
 default
 private
+smile
+router
 tech
+cascade
 !root
 netadmin
 PASSWORD
+none
 monitor
 security
 service
@@ -67,6 +71,7 @@ asdfgh
 zaq12wsx
 q1w2e3r4t5
 manager
+secure
 welcome
 system
 pass
