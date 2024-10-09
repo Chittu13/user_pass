@@ -15,6 +15,7 @@ su
 Anonymous
 Student
 sysadmin
+rootuser
 Administrator
 student
 username
