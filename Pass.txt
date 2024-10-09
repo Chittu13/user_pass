@@ -6,8 +6,11 @@ toor
 qwerty
 qwertyuiop
 GUESTGUEST
+oracle
+INVALID
 asdfghjkl
 iloveyou
+Tiger
 password1
 unknown
 princess
@@ -19,6 +22,9 @@ router
 tech
 cascade
 !root
+sysadm
+echo
+$secure$
 netadmin
 PASSWORD
 none
