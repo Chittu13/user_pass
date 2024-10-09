@@ -4,3 +4,6 @@ ariana
 selena
 ftpuser
 sar
+janitor
+joeyt
+chandlerb
